@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.todo_item_container {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  border-radius: 5px;
+  color: #ff0b37;
+  height: 26px;
+  border-color: #ffc2a0;
+  margin-left: 10px;
+  align-self: end;
+  cursor: pointer;
+  outline: none;
+}

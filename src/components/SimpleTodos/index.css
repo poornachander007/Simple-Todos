@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.page_container {
+  background-color: #ffc2a0;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ff8542;
+}
+
+.todo_container {
+  max-width: 800px;
+}
